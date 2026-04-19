@@ -2,7 +2,7 @@
 ポートフォリオ用GitHubです。
 
 ## アプリ概要
-Next.jsとSupabaseを用いたスケジュール管理アプリです。
+Next.jsとSupabaseを用いた趣味のイベント等のスケジュール管理アプリです。
 
 ## サイトイメージ
 メインページの画像を貼れると良いです。
@@ -23,21 +23,18 @@ https://blogapp-forlecture.vercel.app/
 - テスト・デバッグ：DevTools（Chrome）
 - CI/CD：GitHub Actions（ESLint）
 
-※箇条書きは「-」のあとに空白を入れて本文を始めることで可能です。
-
 ## 設計ドキュメント
-[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1yBssPgoUI_8TMwVZA2hWOLQj3-l7oirLB2FQ1YJgCww/edit?usp=sharing)
+[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1f-_8Aa_L2etDloKb86AdRKEppvwO9TMyVad2Mhhba5U/edit?usp=sharing)
 
 詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](./docs)）
 
-※[]の中に表示文を書き、その後ろで()の中にURLを入れればハイパーリンク化できます。
-
 ## 機能一覧
-- ユーザー登録、ログイン機能（メールアドレスとGoogleアカウント）
-- スケジュール追加、編集、削除機能
-- 
-
-※空白を2つ開けて「-」から始めることで、箇条書きが2段目になります。三段目は空白を4つ開ければ可能です。
+- ユーザー登録、ログイン機能（Supabase Authを利用）
+- イベントの追加、編集、削除機能
+   - 同イベントに紐づく複数日程の登録が可能
+- 重要日程の優先表示機能
+- カレンダー表示機能（月表示）
+- メモ機能
 
 ## テスト・修正の設計及び実施書
 [テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1ph7XaLu4a2k_kDBEpj_ySTBPETJvg5143ZMk5G90DUA/edit?usp=sharing)
