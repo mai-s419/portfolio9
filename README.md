@@ -2,7 +2,7 @@
 ポートフォリオ用GitHubです。
 
 ## アプリ概要
-Next.jsとSupabaseを用いた趣味のイベント等のスケジュール管理アプリです。
+Next.jsとSupabaseを用いた,日々の予定と複数日程を持つイベント（申込開始・締切・当落・入金など）を一元管理できるカレンダーアプリです
 
 ## サイトイメージ
 ![アプリ画像](https://github.com/mai-s419/portfolio9/blob/c8fa77959ee2bac9aee3a1494f50c3ef7f4d40dd/docs/%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E7%94%BB%E5%83%8F.png?raw=true)
