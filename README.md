@@ -5,7 +5,7 @@
 Next.jsとSupabaseを用いた趣味のイベント等のスケジュール管理アプリです。
 
 ## サイトイメージ
-![アプリ画像](?raw=true)
+![アプリ画像](https://github.com/mai-s419/portfolio9/blob/c8fa77959ee2bac9aee3a1494f50c3ef7f4d40dd/docs/%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E7%94%BB%E5%83%8F.png?raw=true)
 
 ## サイトURL  
 https://calendar-app-beta-brown.vercel.app
