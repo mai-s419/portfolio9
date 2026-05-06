@@ -34,7 +34,7 @@ https://calendar-app-beta-brown.vercel.app<br>
 - メモ機能
 
 ## テスト・修正の設計及び実施書
-[テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1ph7XaLu4a2k_kDBEpj_ySTBPETJvg5143ZMk5G90DUA/edit?usp=sharing)
+[テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1JYRhB5Ktn03umdkpXLEgl_aO7oK3oaUeCk7Vr73-1rw/edit?usp=sharing)
 
 ## アプリの改善案
 [アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1r5DtMVvnflzWHWy6tRG1VP5-v0JG-RA-1GvV8-Nek0A/edit?usp=sharing)
