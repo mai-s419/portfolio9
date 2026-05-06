@@ -37,10 +37,10 @@ https://calendar-app-beta-brown.vercel.app<br>
 [テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1ph7XaLu4a2k_kDBEpj_ySTBPETJvg5143ZMk5G90DUA/edit?usp=sharing)
 
 ## アプリの改善案
-[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1fgynpBKhx8zaNkMweeYVQl52bP6Z8dJZOmmY8MHXjQM/edit?usp=sharing)
+[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1r5DtMVvnflzWHWy6tRG1VP5-v0JG-RA-1GvV8-Nek0A/edit?usp=sharing)
 
 ## 備考
-[ESLintの実行結果_GitHub Actions](https://github.com/aihat9161/PortfolioExample_Next.js_BlogAppWorX_ENGINEER-CLASS/actions/runs/14956271682/job/42012343864)
+[ESLintの実行結果_GitHub Actions](https://github.com/mai-s419/v0-calendar-app-with-supabase/actions)
 
 - 活用した生成AIとその用途
   - ChatGPT：要件定義、設計、各種リサーチ
